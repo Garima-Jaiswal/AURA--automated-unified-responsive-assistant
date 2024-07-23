@@ -12,10 +12,10 @@ Customizable: Easily extendable with new features and commands.
 Required Python Libraries
 Install the required libraries using the following command:
 
-pip install SpeechRecognition //SpeechRecognition: Library for recognizing speech input.
-pip install pyttsx3 //pyttsx3: Library for text-to-speech conversion.
-pip install requests //requests: Library for making HTTP requests.
-pip install pyaudio //pyaudio: Library for accessing and recording audio.
+pip install SpeechRecognition //SpeechRecognition: Library for recognizing speech input.<br>
+pip install pyttsx3 //pyttsx3: Library for text-to-speech conversion.<br>
+pip install requests //requests: Library for making HTTP requests.<br>
+pip install pyaudio //pyaudio: Library for accessing and recording audio.<br>
 pip install wikipedia //wikipedia: To get data from wikipedia.
 
 
